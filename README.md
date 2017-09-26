@@ -1,2 +1,3 @@
 # hello-world
-My first repository.
+
+I'm so glad I'm messing around on here and not working on my assignment. (:
